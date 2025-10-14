@@ -4,6 +4,8 @@ env
 env/
 .venv/
 venv/
+.env.local
+.env.*.local
 
 #Mac System Files:
 .DS_Store
