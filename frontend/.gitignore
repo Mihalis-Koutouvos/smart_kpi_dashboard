@@ -1,0 +1,9 @@
+#Environment and Configuration Files:
+.env
+env
+env/
+.venv/
+venv/
+
+#Mac System Files:
+.DS_Store
