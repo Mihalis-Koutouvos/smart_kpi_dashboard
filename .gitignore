@@ -2,6 +2,9 @@
 .env
 env
 env/
+*.env
+*.env.*.local
+*.env.*.local  
 .venv/
 venv/
 .env.local
