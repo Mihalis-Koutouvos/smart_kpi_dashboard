@@ -1,0 +1,20 @@
+annotated-types @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1fa2djihwb/croot/annotated-types_1709542925772/work
+anyio @ file:///opt/miniconda3/conda-bld/anyio_1758623415329/work
+click @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2bwamfk1ra/croot/click_1754477943404/work
+fastapi @ file:///opt/miniconda3/conda-bld/fastapi_1757101261228/work
+h11 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_557zp2ij9k/croot/h11_1748442489221/work
+idna @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a12xpo84t2/croot/idna_1714398852854/work
+numpy==2.3.4
+pandas==2.3.3
+pydantic @ file:///opt/miniconda3/conda-bld/pydantic_1760697529627/work
+pydantic_core @ file:///opt/miniconda3/conda-bld/pydantic-core_1760597287147/work
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.1
+pytz==2025.2
+six==1.17.0
+sniffio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1573pknjrg/croot/sniffio_1705431298885/work
+starlette @ file:///opt/miniconda3/conda-bld/starlette-recipe_1756910684229/work
+typing-inspection @ file:///opt/miniconda3/conda-bld/typing-inspection_1760614169328/work
+typing_extensions @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_dffmcwqo6o/croot/typing_extensions_1756281471323/work
+tzdata==2025.2
+uvicorn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_0dm6hdefmx/croot/uvicorn-split_1751615743028/work
