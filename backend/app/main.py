@@ -1,3 +1,4 @@
+#Select interpreter fixed the issue with importing here
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
